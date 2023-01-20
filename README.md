@@ -1,8 +1,10 @@
-need nodejs/npm
-npm -g install tree-sitter-cli
-ripgrep
-if on linux
-'''apt install build-essential'''
+# Requirements
+
+- need nodejs/npm
+- ripgrep
+- if on linux '`apt install build-essential`
+
+# Shortcuts
 
 
 **gd** - go to definition(note: press q to exit dialog or enter to enter the file)
@@ -11,37 +13,37 @@ if on linux
 
 **gi** - go to impl
 
-**LEADER ca** - code actions
+**<leader> ca** - code actions
 
-**LEADER d** - see error above 
+**<leader> d** - see error above 
 
 **K** - hover doc on cursor
 
-**LEADER rn** - rename 
+**<leader> rn** - rename 
 
-**LEADER rf** - rename file
+**<leader> rf** - rename file
 
-**LEADER ff** - search file
+**<leader> ff** - search file
 
-**LEADER fs** - search string
+**<leader> fs** - search string
 
-**LEADER nh** - clear search highlight
+**<leader> nh** - clear search highlight
 
-**LEADER sv** - vertical split
+**<leader> sv** - vertical split
 
-**LEADER sh** - horizontal split
+**<leader> sh** - horizontal split
 
-**LEADER sx** - exit window split
+**<leader> sx** - exit window split
 
-**LEADER sm** - toggle maximize window
+**<leader> sm** - toggle maximize window
 
-**LEADER to** - open new tab
+**<leader> to** - open new tab
 
-**LEADER tx** - close current tab
+**<leader> tx** - close current tab
 
-**LEADER tn** - go to next tab 
+**<leader> tn** - go to next tab 
 
-**LEADER tp** - go to previous tab
+**<leader> tp** - go to previous tab
 
 **ctrl o** - jump backwards
 
