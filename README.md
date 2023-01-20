@@ -25,6 +25,8 @@
 
 **LEADER rf** - rename file
 
+**fmt** - format current file
+
 
 **LEADER ff** - search file
 

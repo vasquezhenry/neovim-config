@@ -20,6 +20,10 @@ keymap.set("n", "<leader>tp", ":tabp<CR>") -- go to previous tab
 
 -- plugin keymaps
 
+-- null-ls
+keymap.set('n', 'fmt', "<cmd>lua vim.lsp.buf.format { async = true}<CR>" )
+
+
 -- vim-maximizer
 keymap.set("n", "<leader>sm", ":MaximizerToggle<CR>") -- toggle maximize window
 
