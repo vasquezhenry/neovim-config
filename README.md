@@ -11,37 +11,37 @@ if on linux
 
 **gi** - go to impl
 
-**<leader> ca** - code actions
+**LEADER ca** - code actions
 
-**<leader> d** - see error above 
+**LEADER d** - see error above 
 
 **K** - hover doc on cursor
 
-**<leader> rn** - rename 
+**LEADER rn** - rename 
 
-**<leader> rf** - rename file
+**LEADER rf** - rename file
 
-**<leader> ff** - search file
+**LEADER ff** - search file
 
-**<leader> fs** - search string
+**LEADER fs** - search string
 
-**<leader> nh** - clear search highlight
+**LEADER nh** - clear search highlight
 
-**<leader> sv** - vertical split
+**LEADER sv** - vertical split
 
-**<leader> sh** - horizontal split
+**LEADER sh** - horizontal split
 
-**<leader> sx** - exit window split
+**LEADER sx** - exit window split
 
-**<leader> sm** - toggle maximize window
+**LEADER sm** - toggle maximize window
 
-**<leader> to** - open new tab
+**LEADER to** - open new tab
 
-**<leader> tx** - close current tab
+**LEADER tx** - close current tab
 
-**<leader> tn** - go to next tab 
+**LEADER tn** - go to next tab 
 
-**<leader> tp** - go to previous tab
+**LEADER tp** - go to previous tab
 
 **ctrl o** - jump backwards
 
