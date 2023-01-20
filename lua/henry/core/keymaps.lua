@@ -5,8 +5,6 @@ local keymap = vim.keymap
 --general
 keymap.set("n", "<leader>nh", ":nohl<CR>") --clears search highlight
 
-keymap.set("n", "x", '"_x')
-
 keymap.set("n", "<leader>sv", "<C-w>v") -- split window vertically
 keymap.set("n", "<leader>sh", "<C-w>s") -- split window horzontally
 keymap.set("n", "<leader>se", "<C-w>=") -- equal width split windows 
