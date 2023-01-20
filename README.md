@@ -7,9 +7,10 @@
 # Shortcuts
 
 
+## Code Navigating
 **gd** - go to definition(note: press q to exit dialog or enter to enter the file)
 
-**gf** - go to references
+**gr** - go to references
 
 **gi** - go to impl
 
@@ -19,9 +20,11 @@
 
 **K** - hover doc on cursor
 
-**<leader> rn** - rename 
+
+**<leader> rn** - rename
 
 **<leader> rf** - rename file
+
 
 **<leader> ff** - search file
 
@@ -29,6 +32,20 @@
 
 **<leader> nh** - clear search highlight
 
+**ctrl o** - jump backwards
+
+**ctrl i** - jump foward
+
+## Comments
+
+**gcc** - comment current line ( *or gc#k comment more lines)*
+
+## Other
+**ctrl t** - open terminal
+
+
+
+## Windows
 **<leader> sv** - vertical split
 
 **<leader> sh** - horizontal split
@@ -37,6 +54,8 @@
 
 **<leader> sm** - toggle maximize window
 
+
+## Tabs
 **<leader> to** - open new tab
 
 **<leader> tx** - close current tab
@@ -45,11 +64,11 @@
 
 **<leader> tp** - go to previous tab
 
-**ctrl o** - jump backwards
 
-**ctrl i** - jump foward
+## Comments
 
 **gcc** - comment current line ( *or gc#k comment more lines)*
 
+## Other
 **ctrl t** - open terminal
 
